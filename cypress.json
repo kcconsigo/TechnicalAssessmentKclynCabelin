@@ -1,0 +1,22 @@
+{
+    "watchForFileChanges":true,
+    "waitForAnimations": false,
+    "animationDistanceThreshold": 50,
+    
+    "body" : {
+        "external_id":"demo_14754597758172",
+        "bank_code":"BNI",
+        "name":"Rika Sutanto"
+        },
+
+        "reporter": "mochawesome",
+        "reporterOptions": {
+          "overwrite": false,
+          "html": false,
+          "json": true,
+          "charts": true,
+          "reportDir": "cypress/reports"
+        },
+        "video": false
+          
+}
